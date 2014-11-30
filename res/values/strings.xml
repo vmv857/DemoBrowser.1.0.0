@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoBrowser</string>
+    <string name="google">G</string>
+    <string name="yandex">Y</string>
+    <string name="url_alfa">http://alfa.kz/</string>
+    <string name="go">></string>
+    
+</resources>
